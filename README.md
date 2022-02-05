@@ -6,7 +6,7 @@ I, for one, welcome our new robot overlords 🤖
 
 [![No Maintenance Intended](https://unmaintained.tech/badge.svg)](https://unmaintained.tech/)
 
-All code is provided as-is, is not actively maintained and WITHOUT WARRANTY OF ANY KIND
+All code is provided as-is, is not intended to be actively maintained unless noted otherwise and WITHOUT WARRANTY OF ANY KIND
 
 <!--
 **robo9k/robo9k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
